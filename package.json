@@ -1,0 +1,22 @@
+{
+  "name": "abdelrahman-sayed-sun-wed-4-7-assignment-6-01154835686",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "engines": {
+    "node":"20.12.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.9.8",
+    "nodemon": "^3.1.2",
+    "sequelize": "^6.37.3"
+  }
+}
